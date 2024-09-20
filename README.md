@@ -8,7 +8,7 @@ Tabla de contenido:
 
 - [Sobre mi](#poco)
 - [Mail](#mail)
-- [Link a TecoNET](#web)
+- [Link a TecoNET](https://www.teconet.com.ar)
 
 
 ***
